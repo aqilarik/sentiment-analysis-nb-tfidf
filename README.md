@@ -1,0 +1,2 @@
+# Analysis of Public Opinion Sentiment on Twitter about National Vaccination (#VaksinasiNasional) Using Naïve Bayes Method with TF-IDF Feature Selection
+In this project, I analyzed the sentiments (positive and negative) of twitter users about #VaksinasiNasional using the Naive Bayes method. For feature selection, I used TF-IDF to get 80% of the highest weighted words (these words were used for features in Naive Bayes). The result, accuracy: 96.82%
